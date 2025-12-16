@@ -59,19 +59,6 @@ Problem: Minor depth inconsistencies during machining.
 
 Solution: Re-zeroed the machine carefully and verified material thickness before running the final cut.
 
-Files Included
-Aspire Files (.crv / .crv3d)
-
-TOPO_Mountain_Design.crv
-
-CNC Files (G-code / Toolpaths)
-
-TOPO_Mountain_Roughing.nc
-
-TOPO_Mountain_Finishing.nc
-
-
-
 Project Summary & Reflection
 What I Learned:
 
