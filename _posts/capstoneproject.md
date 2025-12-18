@@ -87,11 +87,6 @@ Small hexnuts (x4)
 
 
 
-
-Trevor: Fan design
-
-
-
 Comparison: “Programmable LED Fan – A Light Breeze” vs “Ceiling Fan LED Display”
 Aspect
 Light Breeze
