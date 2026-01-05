@@ -238,8 +238,6 @@ Enjoy and iterate — once basic functionality works, you can expand patterns, s
 
 * 3D Printer (PLA, 0.2 mm layer height)
 * Laser Cutter (for base and housing panels)
-* Soldering iron
-
 
 
 * Arduino (.ino) code for motor control and oscillation
